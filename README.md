@@ -30,6 +30,10 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights:
 
+![alt text](https://github.com/BhartiPandit98/Auction_Price_Prediction/blob/main/Correlation.JPG)
+
+
+
 # Model Building
 First i splitted the dataset into test and train sets with a test size of 20%.
 
