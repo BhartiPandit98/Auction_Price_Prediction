@@ -32,7 +32,9 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/BhartiPandit98/Auction_Price_Prediction/blob/main/Correlation.JPG)
 
+![alt text](https://github.com/BhartiPandit98/Auction_Price_Prediction/blob/main/Proxy_bid_distribution.JPG)
 
+![alt text](https://github.com/BhartiPandit98/Auction_Price_Prediction/blob/main/Email_distribution.JPG)
 
 # Model Building
 First i splitted the dataset into test and train sets with a test size of 20%.
